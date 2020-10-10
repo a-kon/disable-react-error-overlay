@@ -1,0 +1,8 @@
+{
+  "name": "disable-react-error-overlay",
+  "version": "0.0.1",
+  "description": "Tiny lib to disable create-react-app error overlay",
+  "main": "index.js",
+  "author": "https://github.com/a-kon",
+  "license": "ISC"
+}
