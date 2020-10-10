@@ -4,7 +4,7 @@ A tiny library to disable annoying the create-react-app's errors' overlay.
 
 # Usage
 1. Install a package
-`npm i disable-react-error-overlay` or `yarn add disable-react-error-overlay`.
+`npm i disable-react-error-overlay -D` or `yarn add disable-react-error-overlay -D`.
 
 2. Inside your `src/index.js` file use this BEFORE any `ReactDOM.render`
 
